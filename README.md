@@ -57,6 +57,7 @@ Once the project is opened in your browser, you will be able to view the gym’s
 
 ---
 
+Step 7: Now on the git hub check the action panel. We can see the action (push) has been displayed.
 
 # after changing the main branch
 
