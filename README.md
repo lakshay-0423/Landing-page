@@ -57,7 +57,6 @@ Once the project is opened in your browser, you will be able to view the gym’s
 
 ---
 
-Feel free to customize and expand upon this template as per your needs!
 
 # after changing the main branch
 
